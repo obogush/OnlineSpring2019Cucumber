@@ -7,3 +7,4 @@ Feature: Navigation menu options
     When user logs in as a "driver"
     Then user navigates to "Fleet" and "Vehicles"
     And user verifies that "Cars" page name is displayed
+
